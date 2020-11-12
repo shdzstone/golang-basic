@@ -18,13 +18,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lang/functional/fib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lang/basic/basic/var" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lang/functional/fib" />
       <recent name="$PROJECT_DIR$/lang" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -62,22 +63,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="619" y="330" key="EnvironmentVariablesDialog/0.23.1440.877@0.23.1440.877" timestamp="1605165861597" />
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1605166121395">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1605167339139">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605166121395" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1605166121395">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605167339139" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1605167339139">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605166121395" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1605166121394">
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605167339139" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1605167339138">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605166121394" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1605166121395">
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605167339138" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1605167339139">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605166121395" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605167339139" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1605165786050">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
